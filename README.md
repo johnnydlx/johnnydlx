@@ -6,5 +6,5 @@
 😍 Apaixonado por computadores!
 🔭 Instagram : @johnnyamorim__
 
-Cursando Desenvolvimento de sistemas! 
-Curso de Administração (1 ano e 8 meses)
+Cursando Desenvolvimento de sistemas! (2 Anos)
+Curso de Administração (2 Anos)

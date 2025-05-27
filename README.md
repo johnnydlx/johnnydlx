@@ -4,7 +4,7 @@
 😄 Meu sonho é poder viver de programação.
 📫 Email : johnnyamorimparma14@gmail.com 
 😍 Apaixonado por computadores!
-🔭 Instagram : @johnnydlx__ 
+🔭 Instagram : @johnnyamorim__
 
 Cursando Desenvolvimento de sistemas! 
-Curso de Administração (1 ano e 4 meses)
+Curso de Administração (1 ano e 8 meses)

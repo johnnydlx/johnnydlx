@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Johnny, tenho 18 anos e sou natural de Blumenau Santa Catarina. Concluí o ensino médio no Santos Dumont, com o curso técnico em Desenvolvimento de Sistema. Sou apaixonado por tecnologia.
+Me chamo Johnny, tenho 18 anos e sou natural de Blumenau Santa Catarina. Concluí o ensino médio no Santos Dumont, atualmente cursando Desenvolvimento de Sistema no SENAI. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href=

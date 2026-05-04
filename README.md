@@ -2,39 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Johnny, tenho 18 anos e sou natural de Blumenau Santa Catarina. Concluí o ensino médio no Santos Dumont, atualmente cursando Desenvolvimento de Sistema no SENAI. Sou apaixonado por tecnologia.
+Me chamo Johnny, tenho 18 anos e sou natural de Blumenau Santa Catarina. Concluí o ensino médio no Santos Dumont,atualmente cursando técnico em Desenvolvimento de Sistema. Sou apaixonado por tecnologia.
 
-<p align="left">
-    <a href=
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src=
-        />
-    </a>
-    <a href=
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href=
-        <img 
-            alt= 
-            title=
-            src=
-        />
-    </a>
-    <a href=
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
+<a href="mailto:johnnyamorimparma14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/johnny-amorim-parma-96b958227/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 ---
 
 ### 🤖 Linguagens e Tecnologias

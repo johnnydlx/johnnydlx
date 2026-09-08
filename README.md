@@ -158,15 +158,6 @@ Me chamo Johnny, tenho 19 anos e sou natural de Blumenau Santa Catarina. Conclu√
 
 <img 
     align="left" 
-    alt="Liquid"
-    title="Liquid" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquid/liquid-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="JSON"
     title="JSON" 
     width="30px" 
